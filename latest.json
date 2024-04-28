@@ -1,0 +1,11 @@
+{
+  "version": "0.0.13",
+  "notes": "- feat: xxx\r\n- fix: xxx",
+  "pub_date": "2024-04-28T08:15:36.680Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcnRTUmROMGdBZlBWLzVuTk9nT1dkVjdnZTNCT3dTRHR1djl6a0IxNWN1czBLRytjZklOMlR3TE1mQ0F6QU1Pc0xPTWNndFUrd3RHL3BvYUhwbkZuVjU2MHo4S1dlU2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MjkyMTMxCWZpbGU6bGVhZ3VlYm9hcmRfMC4wLjEzX3g2NF9lbi1VUy5tc2kuemlwCkkzd1k1WloxM3RDRWZOUlNSLzVjQXV2MWMvaDY2WmdCWkFsWlhPbitLd05wQTVCU3cyYWVxNkozcjBiMXpUcUZzdXBVMXJQTDdKOHBuL2k0blY1ZUFnPT0K",
+      "url": "https://github.com/MrDragon1/LeagueBoard/releases/download/v0.0.13/leagueboard_0.0.13_x64_en-US.msi.zip"
+    }
+  }
+}
